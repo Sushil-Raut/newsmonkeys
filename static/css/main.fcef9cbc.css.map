@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.fcef9cbc.css","mappings":"AAAA,KACE,iBACF,CAEA,IACE,wBACF","sources":["App.css"],"sourcesContent":[".App {\n  text-align: center;\n}\n\nnav{\n  background-color: lightseagreen;\n}\n"],"names":[],"sourceRoot":""}
